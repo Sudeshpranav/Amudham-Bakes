@@ -1,0 +1,6 @@
+{
+  "name": "Amudham Bakes",
+  "description": "Bilingual Tamil and English website for Amudham Bakes, a neighbourhood bakery in Mylapore, Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
